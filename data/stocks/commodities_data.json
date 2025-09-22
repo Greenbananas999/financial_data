@@ -1,0 +1,384 @@
+{
+  "data": [
+    {
+      "symbol": "C_1",
+      "name": "Corn Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "CC1",
+      "name": "Cocoa Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "CHE",
+      "name": "Cheese Futures",
+      "category": "Livestock",
+      "description": ""
+    },
+    {
+      "symbol": "CL1",
+      "name": "Crude Oil Futures",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "CO1",
+      "name": "Brent Futures",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "CT1",
+      "name": "Cotton Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "DA",
+      "name": "Milk Futures",
+      "category": "Livestock",
+      "description": ""
+    },
+    {
+      "symbol": "DL1",
+      "name": "Ethanol Futures",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "FC1",
+      "name": "Feeder Cattle Futures",
+      "category": "Livestock",
+      "description": ""
+    },
+    {
+      "symbol": "GAU/EUR",
+      "name": "Gold Gram",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "GAU/GBP",
+      "name": "Gold Gram",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "GAU/IDR",
+      "name": "Gold Gram",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "GAU/TRY",
+      "name": "Gold Gram",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "GAU/USD",
+      "name": "Gold Gram",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "HG1",
+      "name": "Copper Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "JBP",
+      "name": "Steel Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "JO1",
+      "name": "Orange Juice Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "KC1",
+      "name": "Coffee Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "LB1",
+      "name": "Lumber Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "LC",
+      "name": "Lithium Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "LC1",
+      "name": "Live Cattle Futures",
+      "category": "Livestock",
+      "description": ""
+    },
+    {
+      "symbol": "LH1",
+      "name": "Lean Hogs Futures",
+      "category": "Livestock",
+      "description": ""
+    },
+    {
+      "symbol": "LMAHDS03",
+      "name": "Aluminum Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "MHCC1",
+      "name": "Steel HRC FOB China Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "NG/USD",
+      "name": "Natural Gas",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "NI1",
+      "name": "Nickel Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "O_1",
+      "name": "Oat Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "RR1",
+      "name": "Rice Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "RS1",
+      "name": "Canola Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "S_1",
+      "name": "Soybeans Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "SB1",
+      "name": "Sugar Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "SSCC1",
+      "name": "Steel Scrap Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "URALS/USD",
+      "name": "Urals Crude Oil Spot",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "UXA",
+      "name": "Uranium Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "W_1",
+      "name": "Wheat Futures",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "WTI/USD",
+      "name": "Crude Oil WTI Spot",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "XAG/AUD",
+      "name": "Silver Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAG/CAD",
+      "name": "Silver Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAG/CHF",
+      "name": "Silver Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAG/EUR",
+      "name": "Silver Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAG/GBP",
+      "name": "Silver Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAGg/EUR",
+      "name": "Gram Silver",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAGg/TRY",
+      "name": "Gram Silver",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAGg/USD",
+      "name": "Gram Silver",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAG/TRY",
+      "name": "Silver Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAG/USD",
+      "name": "Silver Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/AUD",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/CAD",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/CHF",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/EUR",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/GBP",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/HKD",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/JPY",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/NZD",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/SGD",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/USD",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XAU/XAG",
+      "name": "Gold Spot",
+      "category": "Precious Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XB1",
+      "name": "Gasoline Futures",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "XBR/USD",
+      "name": "Brent Spot",
+      "category": "Energy Resource",
+      "description": ""
+    },
+    {
+      "symbol": "XG/USD",
+      "name": "Copper Pound",
+      "category": "Agricultural Product",
+      "description": ""
+    },
+    {
+      "symbol": "XPD/USD",
+      "name": "Palladium Spot",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "XPT/USD",
+      "name": "Platinum Spot",
+      "category": "Industrial Metal",
+      "description": ""
+    },
+    {
+      "symbol": "ZS",
+      "name": "Zinc Futures",
+      "category": "Industrial Metal",
+      "description": ""
+    }
+  ],
+  "count": 63,
+  "status": "ok"
+}

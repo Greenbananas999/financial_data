@@ -1,0 +1,4 @@
+id,realtime_start,realtime_end,title,observation_start,observation_end,frequency,frequency_short,units,units_short,seasonal_adjustment,seasonal_adjustment_short,last_updated,popularity,notes
+PIORECRUSDM,2025-08-29,2025-08-29,Global price of Iron Ore,1990-01-01,2025-06-01,Monthly,M,U.S. Dollars per Metric Ton,U.S. $ per Metric Ton,Not Seasonally Adjusted,NSA,2025-07-18 09:37:10-05,67,"Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.
+
+Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
