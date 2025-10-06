@@ -1,2 +1,2 @@
 id,realtime_start,realtime_end,title,observation_start,observation_end,frequency,frequency_short,units,units_short,seasonal_adjustment,seasonal_adjustment_short,last_updated,popularity
-WPS012202,2025-08-29,2025-08-29,Producer Price Index by Commodity: Farm Products: Corn,1975-01-01,2025-07-01,Monthly,M,Index 1982=100,Index 1982=100,Seasonally Adjusted,SA,2025-08-14 07:57:18-05,39
+WPS012202,2025-09-12,2025-09-12,Producer Price Index by Commodity: Farm Products: Corn,1975-01-01,2025-08-01,Monthly,M,Index 1982=100,Index 1982=100,Seasonally Adjusted,SA,2025-09-10 07:53:04-05,40

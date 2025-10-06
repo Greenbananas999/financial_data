@@ -1,5 +1,5 @@
 id,realtime_start,realtime_end,title,observation_start,observation_end,frequency,frequency_short,units,units_short,seasonal_adjustment,seasonal_adjustment_short,last_updated,popularity,notes
-APU000074714,2025-08-29,2025-08-29,"Average Price: Gasoline, Unleaded Regular (Cost per Gallon/3.785 Liters) in U.S. City Average",1976-01-01,2025-07-01,Monthly,M,U.S. Dollars,U.S. $,Not Seasonally Adjusted,NSA,2025-08-12 07:32:46-05,69,"All unleaded regular gasoline.
+APU000074714,2025-09-11,2025-09-11,"Average Price: Gasoline, Unleaded Regular (Cost per Gallon/3.785 Liters) in U.S. City Average",1976-01-01,2025-08-01,Monthly,M,U.S. Dollars,U.S. $,Not Seasonally Adjusted,NSA,2025-09-11 07:33:03-05,69,"All unleaded regular gasoline.
 
 Average consumer prices are calculated for household fuel, motor fuel, and food items from prices collected for the Consumer Price Index (CPI). Average prices are best used to measure the price level in a particular month, not to measure price change over time. It is more appropriate to use CPI index values for the particular item categories to measure price change.
 

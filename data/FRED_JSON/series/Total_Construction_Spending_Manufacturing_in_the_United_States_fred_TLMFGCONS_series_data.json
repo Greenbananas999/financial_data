@@ -1,22 +1,22 @@
 {
-  "realtime_start": "2025-08-29",
-  "realtime_end": "2025-08-29",
+  "realtime_start": "2025-10-02",
+  "realtime_end": "2025-10-02",
   "seriess": [
     {
       "id": "TLMFGCONS",
-      "realtime_start": "2025-08-29",
-      "realtime_end": "2025-08-29",
+      "realtime_start": "2025-10-02",
+      "realtime_end": "2025-10-02",
       "title": "Total Construction Spending: Manufacturing in the United States",
       "observation_start": "2002-01-01",
-      "observation_end": "2025-06-01",
+      "observation_end": "2025-07-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Millions of Dollars",
       "units_short": "Mil. of $",
       "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
       "seasonal_adjustment_short": "SAAR",
-      "last_updated": "2025-08-01 09:16:24-05",
-      "popularity": 70,
+      "last_updated": "2025-09-02 09:16:02-05",
+      "popularity": 71,
       "notes": "Definitions related to the construction data can be found at https://www.census.gov/construction/c30/definitions.html\nMethodology details can be found at https://www.census.gov/construction/c30/methodology.html"
     }
   ]

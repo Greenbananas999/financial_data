@@ -57,8 +57,8 @@ def get_table_from_db(table_name: str, params: str = "1=1", schema: str = None) 
     except Exception as e:
         print(f"Error retrieving table {table_name}: {e}")
         return pd.DataFrame()
-    
-def df_to_sql(df, table_name, schema=None):
+
+def df_to_sql(df, table_name, schema=None, if_exists='append'):
     """
     Push DataFrame to SQL database.
     
@@ -67,16 +67,21 @@ def df_to_sql(df, table_name, schema=None):
         table_name (str): Name of the table in database
         schema (str, optional): Database schema name
     """
-    try:
-        engine = create_engine(DB_CONNECTION)
-        df.to_sql(
-            name=table_name,
-            con=engine,
-            schema=schema,
-            if_exists='append',  # Options: 'fail', 'replace', 'append'
-            index=False,
-            method='multi'
+
+    engine = create_engine(DB_CONNECTION)
+    df.to_sql(
+        name=table_name,
+        con=engine,
+        schema=schema,
+        if_exists=if_exists,  # Options: 'fail', 'replace', 'append'
+        index=False,
+        method='multi'
         )
-        print(f"Successfully saved {table_name} to database")
+    print(f"Successfully saved {table_name} to database")
+
+"""
+    try:
+        
     except Exception as e:
         print(f"Error saving to database: {e}")
+"""
